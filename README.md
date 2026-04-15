@@ -1,2 +1,3 @@
 Flower Species Classification: The iris flower classification aims to predict flowers based on their specific features. By implementing the KNN model, which is used for classification. And achieved the model accuracy of 0.96.
+
 Heart Disease Prediction: By using the Logistic Regression Model, this project is used to predict the presence of heart disease in patients using Medical data. And achieved the model accuracy of 0.81.
